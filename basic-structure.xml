@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <bookstore>
+    <book category="childrens">
+      <title language="en">Harry Potter and the Scorcer's Stone</title>
+      <author>J.K. Rowling</author>
+      <price>15.99</price>
+    </book>
+    <book category="cooking">
+      <title language="en">Food From My Frontier</title>
+      <author>Ree Drummond</author>
+      <price>25.99</price>
+    </book>
+  </bookstore>
+  <!-- Comment -->
