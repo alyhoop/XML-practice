@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Butters category="I am also a root">
+    <nut>
+      <peanut>peanuts &amp; salt</peanut>
+      <!-- and symbol -->
+      <calories>&lt; 500 calories</calories>
+      <!--less than -->
+      <facts>George Washington Carver&apos;s creation</facts>
+      <!--Apostrophe -->
+      <!-- I am a comment. I cannot have dashes in between comments. -->
+    </nut>
+    <nut>
+      <almond>almonds &amp; salt</almond>
+      <calories>&gt; 500 calories</calories>
+      <!-- greater than -->
+      <facts>&quot;It&apos;s the glue that holds together my life.&quot;</facts>
+      <!--Quote and Apostrophe -->
+    </nut>
+  </Butters>
